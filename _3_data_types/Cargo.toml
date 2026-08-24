@@ -1,0 +1,10 @@
+[package]
+name = "data_types"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "data_types"
+path = "main.rs"
