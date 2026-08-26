@@ -1,0 +1,6 @@
+[package]
+name = "traits_deriving"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
