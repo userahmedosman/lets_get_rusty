@@ -1,0 +1,10 @@
+[package]
+name = "_45_custom_error_3"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+log = "0.4"
+env_logger = "0.9"
+thiserror = "1.0"
+anyhow = "1.0"
