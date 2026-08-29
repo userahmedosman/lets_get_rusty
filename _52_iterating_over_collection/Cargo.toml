@@ -1,0 +1,6 @@
+[package]
+name = "_52_iterating_over_collection"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
