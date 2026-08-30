@@ -1,0 +1,7 @@
+[package]
+name = "_61_async_with_cpu_intesive_code"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = {version = "1.17", features = ["full"]}
