@@ -1,0 +1,12 @@
+[package]
+name = "_66_procedural_macros_2_custom_derive"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = "1.0"
+quote = "1.0"
+chrono = "0.4"
