@@ -1,0 +1,13 @@
+[package]
+name = "_67_procedural_macros_3_custom_attributes"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = {version = "1.0", features = ["full"]}
+quote = "1.0"
+chrono = "0.4"
+darling = "0.13"
